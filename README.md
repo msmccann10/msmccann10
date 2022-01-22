@@ -1,8 +1,10 @@
-- Hi, I’m @msmccann10
+- Hi, I’m Michael McCann
 - I’m interested in data science and developing my coding acumen.
-- I’m currently learning python and machine learning. 
-- I’m looking to collaborate on everything.
-- How to reach me...
+- Work primarily in Python, R, and SQL with a little knowledge of Javascript. Currently working on Machine Learning algorithms.
+- Ready to collaborate on anything/everything. Brint it on!
+
+- Find me on Linkedin at https://www.linkedin.com/in/MikeMcCannDoesdata/.
+- Currently building my portfolio site. Check back soon for an update and URL.
 
 <!---
 msmccann10/msmccann10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
