@@ -3,7 +3,7 @@
 - Work primarily in Python, R, and SQL with a little knowledge of Javascript. Currently working on Machine Learning algorithms.
 - Ready to collaborate on anything/everything. Brint it on!
 
-- Find me on Linkedin at https://www.linkedin.com/in/MikeMcCannDoesdata/.
+- Find me on Linkedin at https://www.linkedin.com/in/msmccann10.
 - Currently building my portfolio site. Check back soon for an update and URL.
 
 <!---
