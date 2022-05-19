@@ -6,6 +6,9 @@
 - Find me on Linkedin at https://www.linkedin.com/in/msmccann10.
 - Currently building my portfolio site. Check back soon for an update and URL.
 
+
+GitHub Stats<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=msmccann10&theme=react"/>
 <!---
 msmccann10/msmccann10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
