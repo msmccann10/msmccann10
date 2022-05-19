@@ -14,7 +14,7 @@
 ### About Me
 - I’m interested in data science and developing my coding acumen.
 - Work primarily in Python, R, and SQL with a little knowledge of Javascript. Currently working on Machine Learning algorithms.
-- Ready to collaborate on anything/everything. Brint it on!
+- Ready to collaborate on anything/everything. Bring it on!
 
 ### Portfolio
 - [Grocery Sales Predictions and Analysis](https://github.com/msmccann10/PP-grocery-sales-prediction)
