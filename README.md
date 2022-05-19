@@ -1,4 +1,6 @@
 ![](https://github.com/msmccann10/msmccann10/blob/main/banner.png)
+![](https://github.com/msmccann10/msmccann10/blob/main/banner2.png)
+
 - Hi, I’m Michael McCann
 - I’m interested in data science and developing my coding acumen.
 - Work primarily in Python, R, and SQL with a little knowledge of Javascript. Currently working on Machine Learning algorithms.
