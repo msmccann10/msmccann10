@@ -12,14 +12,21 @@
 
 
 ### About Me
-- I’m interested in data science and developing my coding acumen.
-- Work primarily in Python, R, and SQL with a little knowledge of Javascript. Currently working on Machine Learning algorithms.
-- Ready to collaborate on anything/everything. Bring it on!
+Government analyst turned data scientist. Most of my coding skills have been picked up on the job or along the way. I love learning new programming languages (currently Python, R, and SQL) and would be open to collaborating on new projects.
 
 ### Portfolio
-- [Grocery Sales Predictions and Analysis](https://github.com/msmccann10/PP-grocery-sales-prediction)
-- [Board Game Industry Analysis and Modeling](https://github.com/msmccann10/PP-board-game-industry-modeling)
-- [Movie Database and Analysis](https://github.com/msmccann10/PP-movie-database-and-analysis)
+My most recent portfolio projects. Feel free to take a look and send me any thoughts, comments, tips, or tricks you might have! </br> 
+- [Grocery Sales Predictions and Analysis](https://github.com/msmccann10/PP-grocery-sales-prediction) - Analyze supermarket data and provide clients with three strategies to increase sales. Perform regression modeling to identify important features.
+  - **Tags:** Python, EDA, Visualizaiton, Regression Models, Ensemble Models, Feature Selection </br> 
+- [Board Game Industry Analysis and Modeling](https://github.com/msmccann10/PP-board-game-industry-modeling) - Analyze board game industry data to find what makes good and bad games. Perform regression and classification modeling to determine future games success.  
+  - **Tags:** Python, Functions, Regression Models, Classificaion Models, Boosting, Feature Selection </br> 
+- [Movie Database and Analysis](https://github.com/msmccann10/PP-movie-database-and-analysis) - Produce a SQL database on movies created between 2000 and 2021. Conduct hypothesis testing to find statistically significant factors in a movie's success or failure.
+  - **Tags:** Python, SQL, JSON, Database Creation, A/B Testing, Hypothesis Testing, T Test, ANOVA </br> 
+
+### Learning
+The below repositories are a collection of notes and resources from various learning platforms and activities. Hopefully, they will help you on your coding journey.
+- [Coding Dojo Bootcamp Notes and Resources](https://github.com/msmccann10/LE-Coding-Bootcamp) - Notes, slides, and assignments from my coding bootcamp (Python, SQL, machine learning).
+- [Data Science Learning Group](https://github.com/msmccann10/DSLG) - Peer-to-peer initiative to teach analysts the basics of data science and statistics.
 
 ---
 ### GitHub Stats
