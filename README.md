@@ -26,7 +26,7 @@ My most recent portfolio projects. Feel free to take a look and send me any thou
 ### Learning
 The below repositories are a collection of notes and resources from various learning platforms and activities. Hopefully, they will help you on your coding journey.
 - [Coding Dojo Bootcamp Notes and Resources](https://github.com/msmccann10/LE-Coding-Bootcamp) - Notes, slides, and assignments from my coding bootcamp (Python, SQL, machine learning).
-- [Data Science Learning Group](https://github.com/msmccann10/DSLG) - Peer-to-peer initiative to teach analysts the basics of data science and statistics.
+- [Data Science Learning Group](https://github.com/msmccann10/LE-DSLG) - Peer-to-peer initiative to teach analysts the basics of data science and statistics.
 
 ---
 ### GitHub Stats
